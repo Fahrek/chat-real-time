@@ -1,0 +1,31 @@
+{
+  "name": "chat-real-time",
+  "version": "1.0.0",
+  "description": "Example of chat real time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juan-carlos-correa/chat-real-time.git"
+  },
+  "keywords": [
+    "chat",
+    "real",
+    "time",
+    "node",
+    "socket",
+    "io"
+  ],
+  "author": "Juan Correa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juan-carlos-correa/chat-real-time/issues"
+  },
+  "homepage": "https://github.com/juan-carlos-correa/chat-real-time#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
